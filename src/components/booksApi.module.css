@@ -1,0 +1,25 @@
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
+  background: #cccccc;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  padding: 30px;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 30px 0;
+}
+.button {
+  font-size: 1rem;
+  padding: 0 30px;
+  line-height: 28px;
+  background: #d9e8fd;
+  border-radius: 10px;
+}
+.spinner {
+  display: flex;
+  justify-content: center;
+}

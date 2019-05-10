@@ -1,0 +1,16 @@
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+.span {
+  margin-bottom: 10px;
+}
+.input {
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+}
+.input:active, .input:hover {
+  border: 1px solid #d9e8fd;
+}
